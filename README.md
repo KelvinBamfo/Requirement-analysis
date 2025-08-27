@@ -8,10 +8,16 @@ Requirement analysis is important because
 - It's save time and reasources.
 - It sees to it that no important feature is left out of the project.
 - It makes things clear and undertandable to both parties (Stakeholders and engineers).
-- It acts as the road map for the project.
+- It acts as the road map for the project. 
 - It sees to it that, all necessary features and requirements are present.
 ##### Key Activities in Requirement Analysis.
 - Requirement Gathering
   - This is the process of interviewing stakeholders and users (larger audience) to gather and understand their requirements, reviewing the old documents about the project to get all the information needed to build the project.
 - Requirement Elicitation
   - Here, the team bring up ideas on how best the project can be built, through their brainstorming, they build wireframes and prototypes to get a solid foundation about how the project will be built.
+- Requirement Documentation
+  - During this stage, all information and ideas gathered by the team is documented in one file for reference, communication and the project's progress tracking purposes. User stories and user case scenario are also gathered and put together with the already obtained informations.
+- Requirement Analysis and Modeling
+  - All informations acquired are analyzed and based on financial, time and technical contrainst and prioritized based on their importance and feasibility. Models are then created evaluate and map out requirements.
+- Requirement Validation.
+  - After the documentation, reviews are made with stakeholders to ensure acuracy and completeleness. Acceptance criteria are then defined for all the requirements to make sure each requirement meets the expected standard. After that, traceability metrics are established to make sure all the requirements are addressed during the development and testing process.
