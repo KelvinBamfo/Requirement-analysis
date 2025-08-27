@@ -24,7 +24,7 @@ Requirement analysis is important because
 ## Types of Requirements.
 ### Functional Requirements
 Functional requirements are the (must be able to) functions in a software, it is met when the software is able to perform those functions without considring how fast or slow it does it. 
-### Examples are
+**Examples are**
     - Users must be able to create account.
     - Users must be able to list properties.
     - Users must be able to search and book property.
