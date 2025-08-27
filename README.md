@@ -22,5 +22,15 @@ Requirement analysis is important because
 - Requirement Validation.
   - After the documentation, reviews are made with stakeholders to ensure acuracy and completeleness. Acceptance criteria are then defined for all the requirements to make sure each requirement meets the expected standard. After that, traceability metrics are established to make sure all the requirements are addressed during the development and testing process.
 ## Types of Requirements.
-### Functional Requirement
-
+**Functional Requirements**
+Functional requirements are the (must be able to) functions in a software, it is met when the software is able to perform those functions without considring how fast or slow it does it. 
+  --- Examples are
+    - Users must be able to create account.
+    - Users must be able to list properties.
+    - Users must be able to search and book property.
+    - Users must be able to view booking services.
+**Non Functional Requirement**
+Non Functonal requirement refers to how best and how fast the software can perform a task.
+  --- Examples are
+    - Users should receive verification code within 3 seconds.
+    - booking process should be completed within 10 seconds.
