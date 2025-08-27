@@ -1,16 +1,16 @@
 # Requirement-analysis
-## Requirement Analysis in Software Development.
+## **Requirement Analysis in Software Development.**
 This Requirement Analysis Project focuses on crafting a comprehensive foundation for an upcoming software by through a series of well-defined tasks.
 ### What is Requirement Analysis?
 Requirement analysis is the process of gathering, arranging, and verifying all the needed information about an upcoming project, what it's function is going to be and what is needed in the software. 
-#### Why is Requirement Analysis Important?
+#### **Why is Requirement Analysis Important?**
 Requirement analysis is important because 
 - It's save time and reasources.
 - It sees to it that no important feature is left out of the project.
 - It makes things clear and undertandable to both parties (Stakeholders and engineers).
 - It acts as the road map for the project. 
 - It sees to it that, all necessary features and requirements are present.
-##### Key Activities in Requirement Analysis.
+##### **Key Activities in Requirement Analysis.**
 - Requirement Gathering
   - This is the process of interviewing stakeholders and users (larger audience) to gather and understand their requirements, reviewing the old documents about the project to get all the information needed to build the project.
 - Requirement Elicitation
@@ -21,4 +21,6 @@ Requirement analysis is important because
   - All informations acquired are analyzed and based on financial, time and technical contrainst and prioritized based on their importance and feasibility. Models are then created evaluate and map out requirements.
 - Requirement Validation.
   - After the documentation, reviews are made with stakeholders to ensure acuracy and completeleness. Acceptance criteria are then defined for all the requirements to make sure each requirement meets the expected standard. After that, traceability metrics are established to make sure all the requirements are addressed during the development and testing process.
-## **Requirement Validation.**
+## **Types of Requirements.**
+# Functional Requirement 
+
