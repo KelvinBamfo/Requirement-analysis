@@ -29,8 +29,8 @@ Functional requirements are the (must be able to) functions in a software, it is
 - Users must be able to list properties.
 - Users must be able to search and book property.
 - Users must be able to view booking services.
-## Non Functional Requirement
+#### Non Functional Requirement
 Non Functonal requirement refers to how best and how fast the software can perform a task.
---- Examples are
-    - Users should receive verification code within 3 seconds.
-    - booking process should be completed within 10 seconds.
+**Examples are**
+- Users should receive verification code within 3 seconds.
+- booking process should be completed within 10 seconds.
