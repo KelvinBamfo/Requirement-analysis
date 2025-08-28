@@ -34,3 +34,10 @@ Non Functonal requirement refers to how best and how fast the software can perfo
 **Examples are**
 - Users should receive verification code within 3 seconds.
 - booking process should be completed within 10 seconds.
+## Use Case Diagrams.
+Use case diagrams are visual representation of how users (actors) interact with a system to achieve a specific goal (use cases).
+Use Case Diagram are important because
+- It helps developers to the system to meet the specific requirement of users.
+- It facilitates communication between stakeholders and the development team.
+- It provides a clear visual representation of system functionalities.
+- It aids in identifying and organizing system requirement.
